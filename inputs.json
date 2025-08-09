@@ -1,0 +1,42 @@
+{
+    "SITES": [
+        "site:reddit.com/r/railroading",
+        "site:practicalmachinist.com",
+        "site:thepigsite.com",
+        "site:chemicalprocessing.com"
+    ],
+    "KEY_PHRASES": [
+        "is there a",
+        "looking for a",
+        "software that",
+        "alternatives to",
+        "can't find",
+        "how do you",
+        "how to fix",
+        "struggling",
+        "not working",
+        "problem",
+
+        "hay algun",
+        "estoy buscando",
+        "software que",
+        "alternativas a",
+        "no encuentro",
+        "cómo lo haces",
+        "cómo arreglar",
+        "teniendo problemas",
+        "no funciona",
+        "problema",
+
+        "hay alguna",
+        "busco",
+        "estoy buscando",
+        "software que",
+        "no encuentro",
+        "no funciona",
+        "como arreglar",
+        "como lo haces",
+        "tengo problemas",
+        "alternativas a"
+    ]
+}
