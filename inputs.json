@@ -1,11 +1,50 @@
 {
     "SITES": [
-        "site:reddit.com/r/railroading",
-        "site:practicalmachinist.com",
-        "site:thepigsite.com",
-        "site:chemicalprocessing.com"
+        "indiehackers.com/forum",
+        "news.ycombinator.com",
+        "reddit.com/r/startups",
+        "reddit.com/r/Entrepreneur",
+        "community.startupschool.org",
+        "getmakerlog.com",
+        "producthunt.com/discussions",
+        "dev.to/t/startups",
+        "medium.com/tag/startup",
+        "forum.sweatystartup.com",
+        "nocodefounders.com",
+        "sidehustlestack.co"
     ],
     "KEY_PHRASES": [
+        // questions
+        "how",
+        "can",
+        "what",
+        "when",
+        "which",
+        "why",
+
+        // prepositions
+        "to",
+        "without",
+        "for",
+
+        // comparisons
+        "vs"
+        "versus"
+        "and"
+        "or"
+        "same"
+
+        // alphabetical
+        "a",
+        "b",
+        // ...
+
+        // numbers
+        "1",
+        "2",
+
+        // related questions
+
         "is there a",
         "looking for a",
         "software that",
@@ -19,24 +58,15 @@
 
         "hay algun",
         "estoy buscando",
-        "software que",
         "alternativas a",
-        "no encuentro",
-        "cómo lo haces",
-        "cómo arreglar",
-        "teniendo problemas",
-        "no funciona",
         "problema",
-
-        "hay alguna",
         "busco",
-        "estoy buscando",
         "software que",
         "no encuentro",
         "no funciona",
         "como arreglar",
         "como lo haces",
-        "tengo problemas",
-        "alternativas a"
-    ]
+        "tengo problemas"
+    ],
+    "KEY_PHRASE": "finding startup problems"
 }

@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 """
-query_manager.py
-
 Usage examples:
   # Generate queries from inputs.json and append new ones to queries.csv
   python query_manager.py gen-queries --inputs inputs.json --queries queries.csv
@@ -124,7 +122,7 @@ def gen_queries(inputs_path, queries_path, lock=True):
 
     sites = data.get("SITES", [])
     key_phrases = data.get("KEY_PHRASES", [])
-    site_map = data.get("SITE_MAP", {})  # optional mapping site -> product niche
+    site_map = data.get("SITE_MAP", {})
 
     ensure_csv_exists(queries_path, QUERIES_FIELDS)
     lockfile = queries_path + ".lock"
